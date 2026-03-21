@@ -61,7 +61,7 @@ export default function Contact() {
             <p>We welcome retail customers, wholesale buyers, and custom orders. Send us a message and we will get back to you within 24 hours.</p>
             <div className="contact-detail"><span className="contact-label">Address</span><span className="contact-val">Lamatar, Lalitpur, Nepal</span></div>
             <div className="contact-detail"><span className="contact-label">Phone</span><span className="contact-val">+977-9851158835</span></div>
-            <div className="contact-detail"><span className="contact-label">Email</span><span className="contact-val">sumakar2025@gmail.com</span></div>
+            <div className="contact-detail"><span className="contact-label">Email</span><span className="contact-val">sumakarhandicraft2025@gmail.com</span></div>
             <div className="contact-detail"><span className="contact-label">Hours</span><span className="contact-val">Sun–Fri, 9:00 AM – 6:00 PM NPT</span></div>
             <div className="contact-detail"><span className="contact-label">WhatsApp</span><span className="contact-val">+977-9828951284</span></div>
           </div>
