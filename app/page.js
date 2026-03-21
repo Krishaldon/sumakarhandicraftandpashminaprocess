@@ -110,7 +110,7 @@ export default function Home() {
       <nav>
         <div>
           <div className="nav-logo-main">Sumakar<span>Handicraft</span>AndPashminaProcess</div>
-          <div className="nav-logo-sub">Kathmandu, Nepal · Est. 2000</div>
+          <div className="nav-logo-sub">Lalitpur, Nepal · Est. 2000</div>
         </div>
         <ul className="nav-links">
           <li><a href="/">Home</a></li>
@@ -128,7 +128,7 @@ export default function Home() {
         <div>
           <p className="hero-eyebrow">Handcrafted in Lalitpur, Nepal</p>
           <h1 className="hero-title">Pure Pashmina,<br /><em>Woven with Heritage</em></h1>
-          <p className="hero-desc">SumakarHandicraftAndPashminaProcess brings you the finest cashmere and pashmina — handwoven by master artisans in our own factory in Kathmandu, Nepal.</p>
+          <p className="hero-desc">SumakarHandicraftAndPashminaProcess brings you the finest cashmere and pashmina — handwoven by master artisans in our own factory in Lalitpur, Nepal.</p>
           <a href="#" className="btn-primary">Explore Pashmina Shawls</a>
         </div>
         <div style={{ position: "relative", display: "flex", justifyContent: "center", padding: "3rem" }}>
