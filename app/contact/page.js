@@ -59,11 +59,11 @@ export default function Contact() {
         <div className="contact-grid">
           <div className="contact-info">
             <p>We welcome retail customers, wholesale buyers, and custom orders. Send us a message and we will get back to you within 24 hours.</p>
-            <div className="contact-detail"><span className="contact-label">Address</span><span className="contact-val">Thamel, Kathmandu, Nepal</span></div>
-            <div className="contact-detail"><span className="contact-label">Phone</span><span className="contact-val">+977-1-XXXXXXX</span></div>
-            <div className="contact-detail"><span className="contact-label">Email</span><span className="contact-val">info@sumakarhandicraft.com</span></div>
+            <div className="contact-detail"><span className="contact-label">Address</span><span className="contact-val">Lamatar, Lalitpur, Nepal</span></div>
+            <div className="contact-detail"><span className="contact-label">Phone</span><span className="contact-val">+977-9851158835</span></div>
+            <div className="contact-detail"><span className="contact-label">Email</span><span className="contact-val">sumanpokhrel832.com</span></div>
             <div className="contact-detail"><span className="contact-label">Hours</span><span className="contact-val">Sun–Fri, 9:00 AM – 6:00 PM NPT</span></div>
-            <div className="contact-detail"><span className="contact-label">WhatsApp</span><span className="contact-val">+977-98XXXXXXXX</span></div>
+            <div className="contact-detail"><span className="contact-label">WhatsApp</span><span className="contact-val">+977-9828951284</span></div>
           </div>
           <div className="contact-form">
             <div className="form-row">
@@ -75,10 +75,10 @@ export default function Contact() {
             <button className="btn-primary">Send Message</button>
           </div>
         </div>
-        <div className="map-placeholder">📍 Thamel, Kathmandu, Nepal — Google Map coming soon</div>
+        <div className="map-placeholder">📍 Lamatar, Lalitpur, Nepal</div>
       </section>
 
-      <footer>© 2026 SumakarHandicraftAndPashminaProcess. All rights reserved. · Made with love in Kathmandu, Nepal 🇳🇵</footer>
+      <footer>© 2026 SumakarHandicraftAndPashminaProcess. All rights reserved. · Made with love in Lalitpur, Nepal 🇳🇵</footer>
     </main>
   );
 }
