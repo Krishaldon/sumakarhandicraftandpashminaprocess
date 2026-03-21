@@ -40,7 +40,7 @@ export default function About() {
       <nav>
         <div>
           <div className="nav-logo-main">Sumakar<span>Handicraft</span>AndPashminaProcess</div>
-          <div className="nav-logo-sub">Lalitpur, Nepal · Est. 2000</div>
+          <div className="nav-logo-sub">Lalitpur, Nepal · Est. 2009</div>
         </div>
         <ul className="nav-links">
           <li><a href="/">Home</a></li>
