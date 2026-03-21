@@ -51,7 +51,7 @@ export default function Factory() {
       <nav>
         <div>
           <div className="nav-logo-main">Sumakar<span>Handicraft</span>AndPashminaProcess</div>
-          <div className="nav-logo-sub">Kathmandu, Nepal · Est. 2000</div>
+          <div className="nav-logo-sub">Lalitpur, Nepal · Est. 2000</div>
         </div>
         <ul className="nav-links">
           <li><a href="/">Home</a></li>
@@ -67,7 +67,7 @@ export default function Factory() {
       <div className="factory-hero">
         <p className="eyebrow">Inside Our Workshop</p>
         <h1 className="page-title">The <em>Factory</em> — How We Make Pashmina</h1>
-        <p className="page-subtitle">Every piece passes through the hands of skilled Nepali artisans in our own factory in Kathmandu. Here is the complete journey — from raw Himalayan fiber to finished masterpiece.</p>
+        <p className="page-subtitle">Every piece passes through the hands of skilled Nepali artisans in our own factory in Lalitpur. Here is the complete journey — from raw Himalayan fiber to finished masterpiece.</p>
       </div>
 
       <div className="steps-grid">
@@ -99,7 +99,7 @@ export default function Factory() {
         </div>
       </div>
 
-      <footer>© 2026 SumakarHandicraftAndPashminaProcess. All rights reserved. · Made with love in Kathmandu, Nepal 🇳🇵</footer>
+      <footer>© 2026 SumakarHandicraftAndPashminaProcess. All rights reserved. · Made with love in Lalitpur, Nepal 🇳🇵</footer>
     </main>
   );
 }
