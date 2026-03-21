@@ -40,7 +40,7 @@ export default function About() {
       <nav>
         <div>
           <div className="nav-logo-main">Sumakar<span>Handicraft</span>AndPashminaProcess</div>
-          <div className="nav-logo-sub">Kathmandu, Nepal · Est. 2000</div>
+          <div className="nav-logo-sub">Lalitpur, Nepal · Est. 2000</div>
         </div>
         <ul className="nav-links">
           <li><a href="/">Home</a></li>
@@ -99,11 +99,11 @@ export default function About() {
         <div className="team-content">
           <p>"SumakarHandicraftAndPashminaProcess is a family business built on the belief that true luxury comes from honesty — honest materials, honest labor, and honest relationships with our customers around the world."</p>
           <p>"Since the very first day, we have had one vision: to give people the premium cashmere experience while honoring the Nepali artisans who make it possible. Pashmina is not just a product — it is a work of art."</p>
-          <p style={{ fontStyle: "italic", color: "#8B5E3C", marginTop: "1.5rem" }}>— The Sumakara Family, Kathmandu</p>
+          <p style={{ fontStyle: "italic", color: "#8B5E3C", marginTop: "1.5rem" }}>— The Sumakara Family, Lalitpur</p>
         </div>
       </section>
 
-      <footer>© 2026 SumakarHandicraftAndPashminaProcess. All rights reserved. · Made with love in Kathmandu, Nepal 🇳🇵</footer>
+      <footer>© 2026 SumakarHandicraftAndPashminaProcess. All rights reserved. · Made with love in Lalitpur, Nepal 🇳🇵</footer>
     </main>
   );
 }
