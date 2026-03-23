@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Create Next SumakarHandicraft - Premium Pashmina & Handicrafts from NepalApp",
+  title: " SumakarHandicraft - Premium Pashmina & Handicrafts from NepalApp",
   description: "Handwoven pashmina shawls and cashmere from Kathmandu, Nepal.",
 };
 
